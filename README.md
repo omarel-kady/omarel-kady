@@ -3,8 +3,8 @@
 🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer** | 📊 **Data Analyst**  
 📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](https://linkedin.com/in/omarelkadyy)
-[![GitHub](https://img.shields.io/badge/GitHub-omarelkady6227-black?logo=github)](https://github.com/omarelkady6227)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](linkedin.com/in/omarel-kady)
+[![GitHub](https://img.shields.io/badge/GitHub-omarel-kady-black?logo=github)](github.com/omarel-kady)
 
 ---
 
