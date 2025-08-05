@@ -90,9 +90,9 @@ Arab Academy for Science, Technology and Maritime Transport (AAST)
 
 ## 🌍 Languages
 
-- 🇪🇬 Arabic – Native  
-- 🇬🇧 English – Proficient  
-- 🇩🇪 German – Basic
+- Arabic – Native  
+- English – Proficient  
+- German – Basic
 
 ---
 
