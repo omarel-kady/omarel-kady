@@ -1,3 +1,4 @@
+![baner](https://github.com/omarel-kady/omarel-kady/blob/355ca4a9d87da59e2e7b405f5919c1686c4410f5/Omar%20Elkady%20(2).png)
 # 👋 Hi, I'm Omar Hassan
 
 🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer** | 📊 **Data Analyst**  
