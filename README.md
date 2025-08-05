@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Omar Hassan
 
 🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer** | 📊 **Data Analyst**  
-📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com | 📱 +20 1099209187
+📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](https://linkedin.com/in/omarelkadyy)
 [![GitHub](https://img.shields.io/badge/GitHub-omarel--kady-black?logo=github)](https://github.com/omarel-kady)
