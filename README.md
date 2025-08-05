@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Omar Hassan
 
 🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer** | 📊 **Data Analyst**  
-📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com
+📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com | 📱 +20 1099209187
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](linkedin.com/in/omarel-kady)
-[![GitHub](https://img.shields.io/badge/GitHub-omarel-kady-black?logo=github)](github.com/omarel-kady)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](https://linkedin.com/in/omarelkadyy)
+[![GitHub](https://img.shields.io/badge/GitHub-omarel--kady-black?logo=github)](https://github.com/omarel-kady)
 
 ---
 
@@ -97,4 +97,3 @@ Arab Academy for Science, Technology and Maritime Transport (AAST)
 ---
 
 📫 Feel free to reach out via [email](mailto:omar.h.elkady@hotmail.com) or connect on [LinkedIn](https://linkedin.com/in/omarelkadyy)!
-
