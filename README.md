@@ -1,113 +1,100 @@
 # 👋 Hi, I'm Omar Hassan
 
-🎓 **Business Information Systems Undergraduate** at the Arab Academy for Science, Technology & Maritime Transport (AAST)  
-📍 Based in Nasr City, Cairo, Egypt  
-📬 omar.h.elkady@hotmail.com  | [LinkedIn](https://linkedin.com/in/omarel-kady) | [GitHub](github.com/omarel-kady)
+🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer** | 📊 **Data Analyst**  
+📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](https://linkedin.com/in/omarelkadyy)
+[![GitHub](https://img.shields.io/badge/GitHub-omarelkady6227-black?logo=github)](https://github.com/omarelkady6227)
 
 ---
 
-## 💼 About Me
+## 🧠 About Me
 
-I’m a highly motivated Business Information Systems student with a **3.96 GPA** and hands-on internship experience at leading financial institutions including **CIB Egypt** and **ADCB**.
+I’m a highly motivated Business Information Systems undergraduate with a **3.96 GPA**. I specialize in bridging the gap between technology and business with strong foundations in:
 
-🔧 Skilled in:
-- **Full-Stack Web Development**  
-- **Database Management**  
-- **Business Intelligence & Data Visualization (Tableau)**  
-- **Python Development**  
-- **ERP & Cybersecurity Concepts**
+- 🧩 Full-Stack Development (HTML/CSS, JavaScript, PHP, Python, Java)
+- 🗃️ Database Management (MySQL, Oracle)
+- 📊 Business Intelligence & Data Analytics (Tableau, Excel)
+- 🛡️ Cybersecurity & Blockchain Awareness
 
-I love bridging the gap between **technology** and **business** to deliver impactful digital solutions.
+I've interned at leading financial institutions like **CIB Egypt** and **ADCB**, where I gained hands-on experience in banking operations, digital services, and transformation strategies.
 
 ---
 
-## 💻 Tech Stack
+## 💼 Experience
 
-**Languages & Frameworks**  
-- HTML, CSS, JavaScript  
-- Java, PHP, Python, SQL  
+### 🔹 CIB Egypt  
+**Internship Trainee**  
+- 2025: *CIB Future Vest: The Green Leap*  
+- 2024: *Emerging Talent for the Future Workplace*
 
-**Front-End Tools**  
-- Figma, Adobe XD  
+### 🔹 Abu Dhabi Commercial Bank (ADCB)  
+**Summer Intern**  
+- Gained exposure to banking digital transformation strategies
 
-**Back-End & Databases**  
-- MySQL, Oracle  
-- Odoo (ERP)
-
-**Business Intelligence**  
-- Tableau  
-- Microsoft Excel, Access  
-
-**Other Tools**  
-- Microsoft Project  
-- Git & GitHub  
-- Microsoft Office Suite  
+### 🔹 IctHub Egypt  
+**Python Development Intern**  
+- Completed real-world projects in Python  
+- Rated "Excellent" for technical performance
 
 ---
 
-## 📊 Certifications
+## 🎓 Education
 
-### 🔐 Data & Tech
-- Python Programming Basics – ITI  
-- Tableau BI Basics – CFI  
-- CCNA: Introduction to Networks – Cisco  
-- Blockchain Technology – EYouth  
-- Introduction to Cybersecurity Awareness – HP LIFE  
-- Data Literacy Essentials & Data Literacy in Practice – SAS  
-
-### 💸 Banking & Finance
-- Financial Literacy & Entrepreneurial Skills – CIB & LinkedIn  
-- Digital Transformation & Data Literacy – SAS & CIB  
-- The Introductory Program on Credit in Banks – EBI  
-- Financial Education for Youth – EBI  
-- Entrepreneurship & Business Model – EBI  
-
-### 🧠 Soft Skills
-- Human-Centric Interpersonal Skills – Frankfurt School  
-- Effective Presentations – HP LIFE  
-- AI Augmented Development Skills – ALX Africa  
+**Bachelor’s Degree in Business Information Systems**  
+Arab Academy for Science, Technology and Maritime Transport (AAST)  
+*2022 – 2026 | GPA: 3.96 (Excellent)*
 
 ---
 
-## 📈 Experience
+## 💡 Skills
 
-### 🏦 **Commercial International Bank (CIB) Egypt**
-**Intern – Summer Programs (2024 & 2025)**  
-- Participated in Future Vest: The Green Leap and Emerging Talent for the Future Workplace initiatives.  
-- Gained insights into digital banking transformation.
+- **Programming**: Java, PHP, Python, JavaScript, SQL  
+- **Front-End**: HTML, CSS, JavaScript  
+- **Back-End**: PHP, Java, Python  
+- **Database**: MySQL, Oracle  
+- **Design Tools**: Figma, Adobe XD  
+- **BI Tools**: Tableau  
+- **ERP Systems**: Odoo  
+- **Other Tools**: Microsoft Project, Excel, Access, PowerPoint
 
-### 🏦 **Abu Dhabi Commercial Bank (ADCB) Egypt**
-**Summer Intern – 2023**  
-- Observed digital service operations and banking strategies.
+---
 
-### 🧑‍💻 **IctHub Egypt**
-**Python Development Intern – 2025**  
-- Completed real-world projects in Python.  
-- Awarded *Excellent* performance grade.
+## 📜 Certifications
+
+### 📊 Data & Tech
+- Data Literacy Essentials & Practice (SAS)  
+- Tableau BI Basics (CFI)  
+- Python Programming (ITI)  
+- Blockchain Technology (EYouth)  
+- Cybersecurity Awareness (HP LIFE)  
+- CCNA: Introduction to Networks (Cisco)
+
+### 💰 Banking & Finance
+- Digital Transformation & Data Literacy (SAS & CIB)  
+- Financial Literacy & Entrepreneurial Skills (CIB, LinkedIn)  
+- Credit, Business Models & Planning (EBI)
+
+### 🤝 Professional Skills
+- Human-Centric Interpersonal Skills (Frankfurt School)  
+- Effective Presentations (HP LIFE)  
+- AI Augmented Skills in the Digital Age (ALX Africa)
 
 ---
 
 ## 🏆 Awards
 
-- **Certificate of Appreciation for Academic Excellence**  
-  *Arab Academy for Science, Technology and Maritime Transport – 2024*
+- Certificate of Appreciation for Academic Excellence – AAST (2024)
 
 ---
 
 ## 🌍 Languages
 
-- Arabic – Native  
-- English – Proficient  
-- German – Basic  
+- 🇪🇬 Arabic – Native  
+- 🇬🇧 English – Proficient  
+- 🇩🇪 German – Basic
 
 ---
 
-## 📫 Let's Connect
+📫 Feel free to reach out via [email](mailto:omar.h.elkady@hotmail.com) or connect on [LinkedIn](https://linkedin.com/in/omarelkadyy)!
 
-- 📧 Email: omar.h.elkady@hotmail.com  
-- 💼 LinkedIn: [omarel-kady](https://linkedin.com/in/omarel-kady)  
-- 🧑‍💻 GitHub: [omarel-kady](github.com/omarel-kady)
-
----
-
-> *“Transforming business through code and insight.”*
