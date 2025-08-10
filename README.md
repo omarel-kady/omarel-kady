@@ -92,4 +92,4 @@ Arab Academy for Science, Technology and Maritime Transport (AAST)
 
 ---
 
-📫 Feel free to reach out via [email](mailto:omar.h.elkady@hotmail.com) or connect on [LinkedIn](https://linkedin.com/in/omarelkadyy)!
+📫 Feel free to reach out via [![Email](https://img.shields.io/badge/-omar.h.elkady@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omar.h.elkady@hotmail.com  or connect on [![LinkedIn](https://img.shields.io/badge/-omarel-kady-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarel-kady) [LinkedIn](https://linkedin.com/in/omarel-kady)!
