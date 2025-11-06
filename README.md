@@ -2,8 +2,14 @@
 
 <h1 align="center">👋 Hi, I'm Omar Hassan</h1>
 
+<div align="center">
+  <img src="./omar.png" width="140" style="border-radius:50%;" alt="Omar Hassan Avatar"/>
+  <img src="./logo.png" width="120" alt="Omar Hassan Logo"/>
+</div>
+
 <p align="center">
   🎓 <b>Business Information Systems Student</b> | 💻 <b>Full-Stack Developer</b><br>
+  🧭 <i>Bridging Business Strategy and Software Innovation</i><br>
   📍 Cairo, Egypt | 📧 <a href="mailto:omar.h.elkady@hotmail.com">omar.h.elkady@hotmail.com</a>
 </p>
 
@@ -23,12 +29,13 @@
 
 <div align="center">
 
-🎯 Passionate about bridging **business strategy and technology** to create impactful solutions.  
-💪 Currently maintaining a **3.96 GPA** at AAST — thriving where **data, software, and business** meet.
+💡 Business-minded full-stack developer passionate about **digital transformation**.  
+📊 Skilled in **data analytics, backend systems**, and **financial tech innovation**.  
+🚀 Building tools that turn **insights into impact**.  
 
-🧩 Full-Stack Development • 🗃️ Database Management • 📊 BI & Data Analytics • 🛡️ Cybersecurity & Blockchain  
-
-🏦 Hands-on experience through internships at **CIB Egypt**, **ADCB**, and **IctHub** in **digital banking** and **tech transformation**.
+🎯 Maintaining a **3.96 GPA** at AAST — thriving where **business, data, and technology** meet.  
+💼 Open to **internships or entry-level roles** in **Digital Banking & Business Tech**.  
+🧋 Fueled by espresso and a fascination for efficient systems.
 
 </div>
 
@@ -38,18 +45,15 @@
 
 | 🏢 Organization | 💼 Role | 📅 Year | 🌟 Highlights |
 |----------------|---------|---------|---------------|
-| 🏦 **CIB Egypt** | Internship Trainee | 2024–2025 | *Future Vest: The Green Leap* & *Emerging Talent for the Future Workplace* |
-| 🏛️ **Abu Dhabi Commercial Bank (ADCB)** | Summer Intern | 2024 | Gained exposure to **banking digital transformation** |
-| 💻 **IctHub Egypt** | Python Intern | 2023 | Completed real-world Python projects — rated **Excellent** |
+| 🏦 **CIB Egypt** | Internship Trainee | 2024–2025 | Contributed to *Future Vest: The Green Leap* & *Emerging Talent for the Future Workplace* — supported rollout of digital banking workflows improving efficiency. |
+| 🏛️ **Abu Dhabi Commercial Bank (ADCB)** | Summer Intern | 2024 | Collaborated with the digital transformation team; explored automation in banking operations. |
+| 💻 **IctHub Egypt** | Python Intern | 2023 | Completed real-world Python projects — rated **Excellent** for clean, scalable solutions. |
 
 ---
 
 ## 🎓 Education
 
 <div align="center">
-
-<img src="https://share.google/images/PqV4mtlKsSb7pE5Ya" alt="AAST Logo" width="60"/>
-<img src="https://share.google/images/PqV4mtlKsSb7pE5Ya](https://www.pngegg.com/en/png-zayfw" alt="AAST Logo" width="60"/>
 
 **Bachelor’s in Business Information Systems**  
 <sub>Arab Academy for Science, Technology & Maritime Transport (AAST)</sub>  
@@ -84,12 +88,12 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarel-kady&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarel-kady&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omarel-kady&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarel-kady&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarel-kady&layout=compact&theme=radical&hide_border=true" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarel-kady&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
 </p>
 
 ---
@@ -117,6 +121,15 @@
 | [📦 **Portfolio Website**](https://github.com/omarel-kady/portfolio) | Personal website showcasing projects and achievements | React • Tailwind CSS |
 | [💰 **Bank API**](https://github.com/omarel-kady/bank-api) | RESTful API simulating digital banking operations | Node.js • Express • MySQL |
 | [📊 **Data Dashboard**](https://github.com/omarel-kady/data-dashboard) | Interactive BI dashboard with charts & KPIs | Python • Tableau • Excel |
+
+---
+
+## 🧭 Currently Exploring
+
+💼 Digital Banking  
+📊 Data-Driven Decision Systems  
+🧱 Full-Stack Automation  
+🔐 Cybersecurity & Blockchain Solutions  
 
 ---
 
