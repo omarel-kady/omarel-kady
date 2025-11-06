@@ -9,7 +9,7 @@
 
 <p align="center">
   🎓 <b>Business Information Systems Student</b> | 💻 <b>Full-Stack Developer</b><br>
-  🧭 <i>Bridging Business Strategy and Software Innovation</i><br>
+  🧭 <i>Transforming business strategy into software innovation.</i><br>
   📍 Cairo, Egypt | 📧 <a href="mailto:omar.h.elkady@hotmail.com">omar.h.elkady@hotmail.com</a>
 </p>
 
@@ -29,25 +29,29 @@
 
 <div align="center">
 
-💡 Business-minded full-stack developer passionate about **digital transformation**.  
-📊 Skilled in **data analytics, backend systems**, and **financial tech innovation**.  
-🚀 Building tools that turn **insights into impact**.  
+💡 Business-savvy full-stack developer passionate about **fintech, digital transformation, and data-driven innovation**.  
+📊 Bridging the gap between **business intelligence and software engineering** to deliver measurable outcomes.  
+⚙️ I love building systems that help **organizations make smarter, faster, data-informed decisions**.  
 
-🎯 Maintaining a **3.96 GPA** at AAST — thriving where **business, data, and technology** meet.  
-💼 Open to **internships or entry-level roles** in **Digital Banking & Business Tech**.  
-🧋 Fueled by espresso and a fascination for efficient systems.
+🎯 Maintaining a **3.96 GPA** at AAST — thriving at the intersection of **business insight, analytics, and code**.  
+💼 Open to opportunities in **Digital Banking**, **Data Strategy**, and **Tech-Driven Consulting**.  
+☕ Fueled by espresso and a relentless pursuit of efficiency.
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Experience Timeline
 
-| 🏢 Organization | 💼 Role | 📅 Year | 🌟 Highlights |
-|----------------|---------|---------|---------------|
-| 🏦 **CIB Egypt** | Internship Trainee | 2024–2025 | Contributed to *Future Vest: The Green Leap* & *Emerging Talent for the Future Workplace* — supported rollout of digital banking workflows improving efficiency. |
-| 🏛️ **Abu Dhabi Commercial Bank (ADCB)** | Summer Intern | 2024 | Collaborated with the digital transformation team; explored automation in banking operations. |
-| 💻 **IctHub Egypt** | Python Intern | 2023 | Completed real-world Python projects — rated **Excellent** for clean, scalable solutions. |
+<p align="center">
+
+| 🗓️ Period | 🏢 Organization | 💼 Role | 🔍 Focus |
+|------------|----------------|---------|----------|
+| 2024–2025 | 🏦 **CIB Egypt** | Internship Trainee | Supported *Future Vest: The Green Leap* program; optimized workflows for digital banking projects. |
+| 2024 | 🏛️ **Abu Dhabi Commercial Bank (ADCB)** | Summer Intern | Researched automation and process digitization within the banking sector. |
+| 2023 | 💻 **IctHub Egypt** | Python Intern | Delivered real-world Python automation projects — rated **Excellent** for performance and code quality. |
+
+</p>
 
 ---
 
@@ -55,29 +59,29 @@
 
 <div align="center">
 
-**Bachelor’s in Business Information Systems**  
+🎓 **Bachelor’s in Business Information Systems**  
 <sub>Arab Academy for Science, Technology & Maritime Transport (AAST)</sub>  
-📅 *2022–2026* | 🎯 *GPA: 3.96 / 4.0 (Excellent)*  
+📅 *2022–2026* | 📈 *GPA: 3.96 / 4.0 (Excellent)*  
 
 </div>
 
 ---
 
-## 🎨 Tech Stack
+## ⚙️ Tech Stack
 
-### 🖥️ Frontend
+### 🖥️ Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react" /><br/>
   <sub>HTML • CSS • Tailwind • Bootstrap • JavaScript • React</sub>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql" /><br/>
   <sub>Node.js • Express • Python • PHP • MySQL</sub>
 </p>
 
-### 🧰 Tools & Version Control
+### 🧰 Tools & Collaboration
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /><br/>
   <sub>Git • GitHub • VSCode • Figma • Postman</sub>
@@ -85,20 +89,18 @@
 
 ---
 
-## 📊 GitHub Overview
+## 🌟 Highlights & Impact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarel-kady&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarel-kady&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarel-kady&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
-</p>
+✅ Built a **Banking API Simulation** — RESTful endpoints handling secure, real-world transaction flows.  
+✅ Designed an **Interactive BI Dashboard** integrating **Python + Tableau + Excel** for real-time KPIs.  
+✅ Delivered automation scripts improving **process accuracy by 30%** during internship tasks.  
+✅ Recognized with **Academic Excellence Awards (2024, 2025)** at AAST.  
+✅ Collaborated on a **Green Banking Initiative** under CIB’s Future Vest program.  
+✅ Continuously exploring **AI, Blockchain, and Cybersecurity** for data-driven business systems.
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications Snapshot
 
 | 🧠 Category | 🏅 Certifications |
 |-------------|------------------|
@@ -108,28 +110,30 @@
 
 ---
 
-## 🏆 Awards
-
-🏅 Certificate of Academic Excellence – AAST (2024, 2025)
-
----
-
 ## 🚀 Featured Projects
 
 | 🌐 Project | 💡 Description | 🧩 Tech |
 |------------|----------------|--------|
-| [📦 **Portfolio Website**](https://github.com/omarel-kady/portfolio) | Personal website showcasing projects and achievements | React • Tailwind CSS |
-| [💰 **Bank API**](https://github.com/omarel-kady/bank-api) | RESTful API simulating digital banking operations | Node.js • Express • MySQL |
-| [📊 **Data Dashboard**](https://github.com/omarel-kady/data-dashboard) | Interactive BI dashboard with charts & KPIs | Python • Tableau • Excel |
+| [📦 **Portfolio Website**](https://github.com/omarel-kady/portfolio) | Personal site highlighting projects, experience, and design philosophy | React • Tailwind CSS |
+| [💰 **Bank API**](https://github.com/omarel-kady/bank-api) | RESTful API simulating real-world banking operations | Node.js • Express • MySQL |
+| [📊 **Data Dashboard**](https://github.com/omarel-kady/data-dashboard) | BI dashboard with interactive data visualizations & KPIs | Python • Tableau • Excel |
 
 ---
 
 ## 🧭 Currently Exploring
 
-💼 Digital Banking  
+🌐 Digital Banking & Fintech Architecture  
 📊 Data-Driven Decision Systems  
-🧱 Full-Stack Automation  
-🔐 Cybersecurity & Blockchain Solutions  
+🧠 Business Analytics with AI  
+🔐 Blockchain & Secure Transactions  
+
+---
+
+## 🏅 Awards & Recognition
+
+🏆 Certificate of Academic Excellence – AAST (2024, 2025)  
+🌱 Finalist – *Future Vest: The Green Leap* Innovation Challenge  
+💡 Recognized for delivering high-impact analytics solutions during internship rotations  
 
 ---
 
