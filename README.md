@@ -1,7 +1,7 @@
 ![baner](https://github.com/omarel-kady/omarel-kady/blob/355ca4a9d87da59e2e7b405f5919c1686c4410f5/Omar%20Elkady%20(2).png)
 # 👋 Hi, I'm Omar Hassan
 
-🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer** | 📊 **Data Analyst**  
+🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer**  
 📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](https://linkedin.com/in/omarelkadyy)
@@ -13,7 +13,7 @@
 
 I’m a highly motivated Business Information Systems undergraduate with a **3.96 GPA**. I specialize in bridging the gap between technology and business with strong foundations in:
 
-- 🧩 Full-Stack Development (HTML/CSS, JavaScript, PHP, Python, Java)
+- 🧩 Full-Stack Development (HTML/CSS, tailwindcss, bootstrap, JavaScript, React, PHP, Python, Java, Node.js and express)
 - 🗃️ Database Management (MySQL, Oracle)
 - 📊 Business Intelligence & Data Analytics (Tableau, Excel)
 - 🛡️ Cybersecurity & Blockchain Awareness
@@ -48,13 +48,36 @@ Arab Academy for Science, Technology and Maritime Transport (AAST)
 
 ---
 
-### 💻 Programming & Development
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+## 🎨 Frontend
+
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+
+---
+
+## ⚙️ Backend
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+---
+
+## 🧰 Tools & Version Control
+
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+---
+
+💡 *Always building, breaking, and rebuilding cooler stuff.*
+
 
 ## 📜 Certifications
 
@@ -81,15 +104,8 @@ Arab Academy for Science, Technology and Maritime Transport (AAST)
 ## 🏆 Awards
 
 - Certificate of Appreciation for Academic Excellence – AAST (2024)
+- Certificate of Appreciation for Academic Excellence – AAST (2025)
 
----
 
-## 🌍 Languages
-
-- Arabic – Native  
-- English – Proficient  
-- German – Basic
-
----
 
 📫 Feel free to reach out via [email](mailto:omar.h.elkady@hotmail.com) or connect on [LinkedIn](https://linkedin.com/in/omarelkadyy)!
