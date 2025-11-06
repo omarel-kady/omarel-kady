@@ -1,111 +1,98 @@
-![baner](https://github.com/omarel-kady/omarel-kady/blob/355ca4a9d87da59e2e7b405f5919c1686c4410f5/Omar%20Elkady%20(2).png)
-# 👋 Hi, I'm Omar Hassan
+![banner](https://github.com/omarel-kady/omarel-kady/blob/355ca4a9d87da59e2e7b405f5919c1686c4410f5/Omar%20Elkady%20(2).png)
 
-🎓 **Business Information Systems Student** | 💻 **Full-Stack Developer**  
-📍 Cairo, Egypt | 📧 omar.h.elkady@hotmail.com 
+<h1 align="center">👋 Hi, I'm Omar Hassan</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin)](https://linkedin.com/in/omarelkadyy)
-[![GitHub](https://img.shields.io/badge/GitHub-omarel--kady-black?logo=github)](https://github.com/omarel-kady)
+<p align="center">
+  🎓 <b>Business Information Systems Student</b> | 💻 <b>Full-Stack Developer</b> <br>
+  📍 Cairo, Egypt | 📧 <a href="mailto:omar.h.elkady@hotmail.com">omar.h.elkady@hotmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/omarelkadyy">
+    <img src="https://img.shields.io/badge/LinkedIn-omar--elkady-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/omarel-kady">
+    <img src="https://img.shields.io/badge/GitHub-omarel--kady-black?logo=github&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a highly motivated Business Information Systems undergraduate with a **3.96 GPA**. I specialize in bridging the gap between technology and business with strong foundations in:
+🎯 Passionate about combining **business strategy and technology** to build impactful digital solutions.  
+💪 Currently holding a **3.96 GPA** at AAST — thriving at the intersection of **data, software, and business**.
 
-- 🧩 Full-Stack Development (HTML/CSS, tailwindcss, bootstrap, JavaScript, React, PHP, Python, Java, Node.js and express)
-- 🗃️ Database Management (MySQL, Oracle)
-- 📊 Business Intelligence & Data Analytics (Tableau, Excel)
-- 🛡️ Cybersecurity & Blockchain Awareness
+💡 Focus Areas:
+> 🧩 Full-Stack Development • 🗃️ Database Management • 📊 BI & Data Analytics • 🛡️ Cybersecurity & Blockchain  
 
-I've interned at leading financial institutions like **CIB Egypt** and **ADCB**, where I gained hands-on experience in banking operations, digital services, and transformation strategies.
+🏦 Past internships at **CIB Egypt**, **ADCB**, and **IctHub** — gaining hands-on experience in **digital banking** and **tech transformation**.
 
 ---
 
 ## 💼 Experience
 
-### 🔹 CIB Egypt  
-**Internship Trainee**  
-- 2025: *CIB Future Vest: The Green Leap*  
-- 2024: *Emerging Talent for the Future Workplace*
-
-### 🔹 Abu Dhabi Commercial Bank (ADCB)  
-**Summer Intern**  
-- Gained exposure to banking digital transformation strategies
-
-### 🔹 IctHub Egypt  
-**Python Development Intern**  
-- Completed real-world projects in Python  
-- Rated "Excellent" for technical performance
+| Organization | Role | Year | Highlights |
+|---------------|------|------|-------------|
+| 🏦 **CIB Egypt** | Internship Trainee | 2024–2025 | “Future Vest: The Green Leap” & “Emerging Talent for the Future Workplace” |
+| 🏛️ **Abu Dhabi Commercial Bank (ADCB)** | Summer Intern | 2024 | Exposure to **banking digital transformation** |
+| 💻 **IctHub Egypt** | Python Intern | 2023 | Completed real-world projects, rated **Excellent** |
 
 ---
 
 ## 🎓 Education
 
-**Bachelor’s Degree in Business Information Systems**  
-Arab Academy for Science, Technology and Maritime Transport (AAST)  
-*2022 – 2026 | GPA: 3.96 (Excellent)*
+🎓 **Bachelor’s in Business Information Systems**  
+Arab Academy for Science, Technology & Maritime Transport *(2022–2026)*  
+📈 **GPA:** 3.96 / 4.0 (Excellent)
 
 ---
 
-## 🎨 Frontend
+## 🎨 Tech Stack
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+### 🖥️ Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react" />
+</p>
 
----
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql" />
+</p>
 
-## ⚙️ Backend
-
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+### 🧰 Tools & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
-
-## 🧰 Tools & Version Control
-
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
----
-
-💡 *Always building, breaking, and rebuilding cooler stuff.*
-
 
 ## 📜 Certifications
 
-### 📊 Data & Tech
-- Data Literacy Essentials & Practice (SAS)  
-- Tableau BI Basics (CFI)  
-- Python Programming (ITI)  
-- Blockchain Technology (EYouth)  
-- Cybersecurity Awareness (HP LIFE)  
-- CCNA: Introduction to Networks (Cisco)
-
-### 💰 Banking & Finance
-- Digital Transformation & Data Literacy (SAS & CIB)  
-- Financial Literacy & Entrepreneurial Skills (CIB, LinkedIn)  
-- Credit, Business Models & Planning (EBI)
-
-### 🤝 Professional Skills
-- Human-Centric Interpersonal Skills (Frankfurt School)  
-- Effective Presentations (HP LIFE)  
-- AI Augmented Skills in the Digital Age (ALX Africa)
+| 🧠 Area | 🏅 Certifications |
+|----------|------------------|
+| **Data & Tech** | SAS Data Literacy • Tableau BI (CFI) • Python (ITI) • Blockchain (EYouth) • CCNA (Cisco) • HP Cybersecurity |
+| **Banking & Finance** | SAS & CIB Digital Transformation • EBI Credit & Business Planning • LinkedIn Entrepreneurial Skills |
+| **Professional Skills** | Frankfurt School – Human-Centric Skills • HP LIFE – Effective Presentations • ALX Africa – AI Skills |
 
 ---
 
 ## 🏆 Awards
 
-- Certificate of Appreciation for Academic Excellence – AAST (2024)
-- Certificate of Appreciation for Academic Excellence – AAST (2025)
+🏅 Certificate of Academic Excellence – AAST (2024, 2025)
 
+---
 
+## 🤝 Let’s Connect
 
-📫 Feel free to reach out via [email](mailto:omar.h.elkady@hotmail.com) or connect on [LinkedIn](https://linkedin.com/in/omarelkadyy)!
+<p align="center">
+  <a href="mailto:omar.h.elkady@hotmail.com"><img src="https://img.shields.io/badge/Email-omar.h.elkady%40hotmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/omarelkadyy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/omarel-kady"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>Always building, breaking, and rebuilding cooler stuff.</i>
+</p>
