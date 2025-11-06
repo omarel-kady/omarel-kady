@@ -1,6 +1,12 @@
-![banner](https://github.com/omarel-kady/omarel-kady/blob/355ca4a9d87da59e2e7b405f5919c1686c4410f5/Omar%20Elkady%20(2).png)
+<p align="center">
+  <img src="./logo.png" width="120" alt="Omar Hassan Logo"/>
+</p>
 
 <h1 align="center">👋 Hi, I'm Omar Hassan</h1>
+
+<p align="center">
+  <img src="./omar.png" width="140" style="border-radius:50%;" alt="Omar Hassan Avatar"/>
+</p>
 
 <p align="center">
   🎓 <b>Business Information Systems Student</b> | 💻 <b>Full-Stack Developer</b><br>
@@ -48,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://share.google/images/PqV4mtlKsSb7pE5Ya](https://www.pngegg.com/en/png-zayfw" alt="AAST Logo" width="60"/>
+<img src="./logo.png" alt="AAST Logo" width="60"/>
 
 **Bachelor’s in Business Information Systems**  
 <sub>Arab Academy for Science, Technology & Maritime Transport (AAST)</sub>  
