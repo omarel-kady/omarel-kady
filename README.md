@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://share.google/images/PqV4mtlKsSb7pE5Ya" alt="AAST Logo" width="60"/>
+<img src="https://share.google/images/PqV4mtlKsSb7pE5Ya](https://www.pngegg.com/en/png-zayfw" alt="AAST Logo" width="60"/>
 
 **Bachelor’s in Business Information Systems**  
 <sub>Arab Academy for Science, Technology & Maritime Transport (AAST)</sub>  
