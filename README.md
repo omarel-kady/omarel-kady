@@ -39,17 +39,7 @@
 
 ---
 
-## 💼 Experience Timeline
 
-<p align="center">
-
-| 🗓️ Period | 🏢 Organization | 💼 Role | 🔍 Focus |
-|------------|----------------|---------|----------|
-| 2024–2025 | 🏦 **CIB Egypt** | Internship Trainee | Supported *Future Vest: The Green Leap* program; optimized workflows for digital banking projects. |
-| 2024 | 🏛️ **Abu Dhabi Commercial Bank (ADCB)** | Summer Intern | Researched automation and process digitization within the banking sector. |
-| 2023 | 💻 **IctHub Egypt** | Python Intern | Delivered real-world Python automation projects — rated **Excellent** for performance and code quality. |
-
-</p>
 
 ---
 
