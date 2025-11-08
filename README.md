@@ -102,7 +102,7 @@
 
 | 🌐 Project | 💡 Description | 🧩 Tech |
 |------------|----------------|--------|
-| [📦 **Portfolio Website**](https://github.com/omarel-kady/portfolio) | Personal site highlighting projects, experience, and design philosophy | React • Tailwind CSS |
+| [📦 **Portfolio Website**](https://omarelkady.netlify.app/) | Personal site highlighting projects, experience, and design philosophy | React • Tailwind CSS |
 | [💰 **Bank API**](https://github.com/omarel-kady/bank-api) | RESTful API simulating real-world banking operations | Node.js • Express • MySQL |
 | [📊 **Data Dashboard**](https://github.com/omarel-kady/data-dashboard) | BI dashboard with interactive data visualizations & KPIs | Python • Tableau • Excel |
 
